@@ -11,8 +11,8 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center text-muted-foreground">
                 <Mail className="h-4 w-4 mr-2" />
-                <a href="mailto:contact@researchpro.com" className="hover:text-primary">
-                  contact@researchpro.co
+                <a href="mailto:appolloresearchconsult@gmail.com" className="hover:text-primary">
+                appolloresearchconsult@gmail.com
                 </a>
               </li>
               <li className="flex items-center text-muted-foreground">
