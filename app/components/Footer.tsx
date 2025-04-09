@@ -18,7 +18,7 @@ export default function Footer() {
               <li className="flex items-center text-muted-foreground">
                 <Phone className="h-4 w-4 mr-2" />
                 <a href="tel:+1234567890" className="hover:text-primary">
-                  (123) 456-7890
+                  (+233) 242-835-458 
                 </a>
               </li>
               <li className="flex items-center text-muted-foreground">
@@ -47,7 +47,7 @@ export default function Footer() {
               </li>
               <li>
                 <a href="#services" className="text-muted-foreground hover:text-primary">
-                  AI for Research
+                  AI Simulation
                 </a>
               </li>
             </ul>

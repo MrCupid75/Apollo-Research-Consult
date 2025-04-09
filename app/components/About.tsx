@@ -5,10 +5,10 @@ import { Card, CardContent } from "@/components/ui/card"
 import { BookOpen, Award, Users, BookMarked } from "lucide-react"
 
 const stats = [
-  { icon: <BookOpen className="h-6 w-6" />, value: "50+", label: "Publications" },
-  { icon: <Award className="h-6 w-6" />, value: "$5M+", label: "Grants Secured" },
-  { icon: <Users className="h-6 w-6" />, value: "200+", label: "Clients" },
-  { icon: <BookMarked className="h-6 w-6" />, value: "15+", label: "Years Experience" },
+  { icon: <BookOpen className="h-6 w-6" />, value: "10+", label: "Number of Employees" },
+  { icon: <Award className="h-6 w-6" />, value: "5+", label: "Partnerships" },
+  { icon: <Users className="h-6 w-6" />, value: "50+", label: "Clients" },
+  { icon: <BookMarked className="h-6 w-6" />, value: "3+", label: "Years Experience" },
 ]
 
 export default function About() {
@@ -27,17 +27,16 @@ export default function About() {
           <motion.div initial={{ opacity: 0, x: -50 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.8 }}>
             <h3 className="text-2xl font-bold mb-4 text-foreground">Expert Academic Research Consultant</h3>
             <p className="text-foreground/80 mb-6">
-              With a Ph.D. in Research Methodology and over 15 years of experience in academic research, I provide
+              With extensive experience in Research Methodology and academic research, we provide
               comprehensive research support services to academics, graduate students, and research institutions.
             </p>
             <p className="text-foreground/80 mb-6">
-              My expertise spans multiple disciplines including social sciences, health sciences, education, and
-              environmental studies. I specialize in advanced statistical analysis, research design, grant writing, and
+              Our expertise spans multiple disciplines including social sciences, health sciences, education, and
+              environmental studies. We specialize in advanced statistical analysis, research design, grant writing, and
               academic publishing.
             </p>
             <p className="text-foreground/80">
-              As a published author with experience in top-tier journals and a track record of successful grant
-              applications, I bring both technical expertise and strategic insight to your research projects.
+              As a deligent body with with clients in academic instutions in the country, we bring both technical expertise and strategic insight to your research projects.
             </p>
           </motion.div>
           <motion.div

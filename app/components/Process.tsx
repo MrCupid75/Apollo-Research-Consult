@@ -15,13 +15,13 @@ const processSteps = [
     icon: <FileText className="h-8 w-8 text-primary" />,
     title: "Research Planning",
     description:
-      "Based on your requirements, I develop a comprehensive research plan including methodology, analysis approach, and deliverables.",
+      "Based on your requirements, We develop a comprehensive research plan including methodology, analysis approach, and deliverables.",
   },
   {
     icon: <BarChart className="h-8 w-8 text-primary" />,
     title: "Analysis & Development",
     description:
-      "I execute the research plan, conducting analyses, developing content, or preparing documentation as required for your project.",
+      "We execute the research plan, conducting analyses, developing content, or preparing documentation as required for your project.",
   },
   {
     icon: <PresentationIcon className="h-8 w-8 text-primary" />,

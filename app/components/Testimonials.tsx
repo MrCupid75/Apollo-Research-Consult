@@ -9,22 +9,22 @@ const testimonials = [
   {
     quote:
       "The statistical analysis provided was exceptional. The consultant's expertise in mixed methods research significantly strengthened our findings and helped us secure publication in a top-tier journal.",
-    author: "Dr. Sarah Chen",
-    position: "Associate Professor, Stanford University",
-    initials: "SC",
+    author: "Sarah Boateng",
+    position: "PhD Candidate, University of Ghana",
+    initials: "SB",
   },
   {
     quote:
       "Working with this research consultant transformed our grant proposal. Their attention to detail and understanding of funding requirements was instrumental in our success securing a major NIH grant.",
-    author: "Prof. James Wilson",
-    position: "Principal Investigator, Johns Hopkins University",
+    author: "Jesse Williams",
+    position: "Research Assistant, KNUST",
     initials: "JW",
   },
   {
     quote:
-      "The AI-driven literature review methodology developed for our research team saved us countless hours and uncovered critical connections we had missed. Truly innovative approach to research.",
-    author: "Dr. Maya Patel",
-    position: "Research Director, MIT Media Lab",
+      "The AI simulation for my methodology developed for our research team saved us countless hours and uncovered critical connections we had missed. Truly innovative approach to research.",
+    author: "Maya Patel",
+    position: "Post Grad, University of Ghana",
     initials: "MP",
   },
 ]

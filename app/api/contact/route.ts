@@ -30,7 +30,7 @@ export async function POST(req: Request) {
     // Create Nodemailer transporter with simplified configuration
     const transporter = nodemailer.createTransport({
       host: process.env.EMAIL_SERVER || "smtp.gmail.com",
-      port: Number.parseInt(process.env.EMAIL_PORT || "587"),
+      port: Number.parseInt(process.env.EMAIL_PORT || "465"),
       secure: process.env.EMAIL_SECURE === "true",
       auth: {
         user: process.env.EMAIL_USER,

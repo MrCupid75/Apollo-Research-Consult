@@ -29,9 +29,9 @@ const services = [
   },
   {
     icon: <Brain className="w-12 h-12 mb-4 text-primary" />,
-    title: "AI for Research",
+    title: "AI Simulation",
     description:
-      "Leverage cutting-edge AI tools and methodologies to enhance your research capabilities. From literature review automation to predictive modeling and data mining, discover how AI can transform your research process.",
+      "Compasses advanced model development, rigorous data preprocessing, the application of predictive analytics techniques, and comprehensive simulation testing to optimize performance and ensure the accuracy and reliability of the outcomes",
     link: "#contact",
   },
 ]
